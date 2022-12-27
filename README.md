@@ -1,9 +1,9 @@
 # git-github
 ## 1. Basic settings
 - set user name
-    > git config --global user.name 'xxx'
+    > git config --global user.name 'yourname'
 - set email
-    > git config --global user.email 'xxx'
+    > git config --global user.email 'youremail'
 - check the settings
     > git config --list
 ## 2. Create a new repository
